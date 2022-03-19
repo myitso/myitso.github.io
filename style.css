@@ -1,0 +1,23 @@
+body {
+    font-size: 22pt;
+}
+video{
+  margin-top: 200px
+}
+h6{
+  color: #FFFFFF;
+  font-family: sans-serif;
+  margin-top: 50px
+}
+.gif{
+  margin-top: 50px;
+  border-radius: 3px;
+}
+p{
+  font-size: 13pt;
+  color: #FFFFFF;
+  font-style: italic;
+}
+.gis{
+   margin-top: 159px
+}
